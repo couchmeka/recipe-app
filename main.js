@@ -10,7 +10,7 @@ let recipeImage = document.querySelector('#recipeImg')
 
 
 //apiKey
-let apiKey = 'd5028199943b4c82bc137f3bfbe07a38'
+let apiKey = //place api key here in quotes
 
 
 
